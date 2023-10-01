@@ -1,6 +1,6 @@
 # odhin-recipes
-A simple page linking to different recipe pages
-This small projects illustrates the following HTML basics:
+A simple page linking to different recipe pages.
+This small project illustrates the following HTML basics:
 - Headers
 - Paragraphs 
 - Images
