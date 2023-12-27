@@ -1,0 +1,26 @@
+
+.title{
+    font-size: xx-large;
+    color: palevioletred;
+    font-weight: 800;
+}
+
+.baked-items{
+    font-size: larger;
+    color: teal;
+    font-weight: 700;
+}
+
+p {
+    font-size: large;
+}
+
+ul {
+    font-size: medium;
+    color: palevioletred;
+}
+
+ol {
+    font-size: medium;
+    color: teal;
+}
